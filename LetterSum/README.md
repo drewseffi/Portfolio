@@ -12,6 +12,9 @@ This program took roughly 30 min to complete
 ## Technical Advancements Made
 This is the first time I have used a dictionary in C#. I was initially going to use 2 arrays that worked in tandom with each other but then I decided to try to learn how dictionaries work. This is why this task took longer than expected. My understanding of dictionaries is still very basic but at least I have learned how to use them in their simplist form.
 
+## Date
+24/04/2023
+
 ## Developers
 
 Drew Sutherland - https://github.com/drewseffi
