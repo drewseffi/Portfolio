@@ -1,0 +1,15 @@
+C:\Users\drews\Desktop\VSC Projects\blackjack\bin\Debug\net6.0\blackjack.exe
+C:\Users\drews\Desktop\VSC Projects\blackjack\bin\Debug\net6.0\blackjack.deps.json
+C:\Users\drews\Desktop\VSC Projects\blackjack\bin\Debug\net6.0\blackjack.runtimeconfig.json
+C:\Users\drews\Desktop\VSC Projects\blackjack\bin\Debug\net6.0\blackjack.dll
+C:\Users\drews\Desktop\VSC Projects\blackjack\bin\Debug\net6.0\blackjack.pdb
+C:\Users\drews\Desktop\VSC Projects\blackjack\obj\Debug\net6.0\blackjack.csproj.AssemblyReference.cache
+C:\Users\drews\Desktop\VSC Projects\blackjack\obj\Debug\net6.0\blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drews\Desktop\VSC Projects\blackjack\obj\Debug\net6.0\blackjack.AssemblyInfoInputs.cache
+C:\Users\drews\Desktop\VSC Projects\blackjack\obj\Debug\net6.0\blackjack.AssemblyInfo.cs
+C:\Users\drews\Desktop\VSC Projects\blackjack\obj\Debug\net6.0\blackjack.csproj.CoreCompileInputs.cache
+C:\Users\drews\Desktop\VSC Projects\blackjack\obj\Debug\net6.0\blackjack.dll
+C:\Users\drews\Desktop\VSC Projects\blackjack\obj\Debug\net6.0\refint\blackjack.dll
+C:\Users\drews\Desktop\VSC Projects\blackjack\obj\Debug\net6.0\blackjack.pdb
+C:\Users\drews\Desktop\VSC Projects\blackjack\obj\Debug\net6.0\blackjack.genruntimeconfig.cache
+C:\Users\drews\Desktop\VSC Projects\blackjack\obj\Debug\net6.0\ref\blackjack.dll
