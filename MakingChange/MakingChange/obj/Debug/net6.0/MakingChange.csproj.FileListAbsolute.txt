@@ -1,0 +1,15 @@
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\bin\Debug\net6.0\MakingChange.exe
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\bin\Debug\net6.0\MakingChange.deps.json
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\bin\Debug\net6.0\MakingChange.runtimeconfig.json
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\bin\Debug\net6.0\MakingChange.dll
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\bin\Debug\net6.0\MakingChange.pdb
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\obj\Debug\net6.0\MakingChange.csproj.AssemblyReference.cache
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\obj\Debug\net6.0\MakingChange.GeneratedMSBuildEditorConfig.editorconfig
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\obj\Debug\net6.0\MakingChange.AssemblyInfoInputs.cache
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\obj\Debug\net6.0\MakingChange.AssemblyInfo.cs
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\obj\Debug\net6.0\MakingChange.csproj.CoreCompileInputs.cache
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\obj\Debug\net6.0\MakingChange.dll
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\obj\Debug\net6.0\refint\MakingChange.dll
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\obj\Debug\net6.0\MakingChange.pdb
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\obj\Debug\net6.0\MakingChange.genruntimeconfig.cache
+D:\Uni\MAS Prac\Prac1\MakingChange\MakingChange\obj\Debug\net6.0\ref\MakingChange.dll
