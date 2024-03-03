@@ -57,6 +57,11 @@ If this is a new branch Git will respond with a URL to create new pull request
 
 You can copy this link to access GitHub in the browser and access your pull request
 
+```sh
+git pull
+```
+`git pull` syncronyses the local repository with the latest remote changes allowing for local branch to be deleted
+
 ## How to view commits 
 ```sh
 git log (-number)
